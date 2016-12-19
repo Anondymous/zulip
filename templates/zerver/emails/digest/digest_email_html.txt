@@ -2,7 +2,7 @@
 Mail sent to a user who hasn't logged in for 24 hours.
 #}
 
-Hello {{ name }},
+Hi {{ name }},
 
 <p>A lot has happened on Zulip while you've been away! <a href="{{ realm_uri }}">Visit Zulip</a> to catch up.</p>
 
